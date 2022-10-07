@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pet-project-onreact-movies/static/css/main.43002b22.css",
+    "main.js": "/pet-project-onreact-movies/static/js/main.38accae1.js",
+    "static/js/787.b1c25c68.chunk.js": "/pet-project-onreact-movies/static/js/787.b1c25c68.chunk.js",
+    "index.html": "/pet-project-onreact-movies/index.html",
+    "main.43002b22.css.map": "/pet-project-onreact-movies/static/css/main.43002b22.css.map",
+    "main.38accae1.js.map": "/pet-project-onreact-movies/static/js/main.38accae1.js.map",
+    "787.b1c25c68.chunk.js.map": "/pet-project-onreact-movies/static/js/787.b1c25c68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43002b22.css",
+    "static/js/main.38accae1.js"
+  ]
+}
