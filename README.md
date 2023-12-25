@@ -1,4 +1,5 @@
-### Live-версия доступна по ссылке https://shkirenkoroma.github.io/pet-project-onreact-movies/
+#### Live-версия доступна по ссылке: https://shkirenkoroma.github.io/pet-project-onreact-movies/
+
 Проект "Сайт для просмотра фильмов"
 ![image](https://user-images.githubusercontent.com/61347452/228732421-85f9aa09-b4dd-4794-93e5-8fa394f9f84a.png)
 Реализована фильтрация и сортировка
